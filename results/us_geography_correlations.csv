@@ -1,0 +1,3 @@
+geography,geography_count,pearson_r,spearman_rho
+50 states,50,0.5948050303059467,0.5813685474189676
+counties and county equivalents,3143,0.6560565603017495,0.7134074435976954

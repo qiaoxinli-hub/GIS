@@ -1,0 +1,8 @@
+metric,value
+county_count,67.000000
+median_household_income_usd,66318.000000
+minimum_median_household_income_usd,50573.000000
+maximum_median_household_income_usd,127208.000000
+median_employment_population_ratio_pct,55.903636
+pearson_correlation_income_employment_ratio,0.646026
+employment_ratio_percentage_points_per_10000_usd,2.530575
